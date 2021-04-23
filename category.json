@@ -1,0 +1,118 @@
+[
+    {
+        "id": "vida",
+        "parent": "vazio"
+    },
+    {
+        "id": "coca",
+        "parent": null
+    },
+    {
+        "id": "coca",
+        "parent": null
+    },
+    {
+        "id": "fanta",
+        "parent": "coca"
+    },
+    {
+        "id": "fanta",
+        "parent": "coca"
+    },
+    {
+        "id": "vazio",
+        "parent": "branco"
+    },
+    {
+        "id": "botao",
+        "parent": "calca"
+    },
+    {
+        "id": "meia",
+        "parent": "tenis"
+    },
+    {
+        "id": "coca",
+        "parent": null
+    },
+    {
+        "id": "branco",
+        "parent": "cor"
+    },
+    {
+        "id": "cinto",
+        "parent": "calca"
+    },
+    {
+        "id": "fivela",
+        "parent": "cinto"
+    },
+    {
+        "id": "bola",
+        "parent": "basket"
+    },
+    {
+        "id": "games",
+        "parent": null
+    },
+    {
+        "id": "pacman",
+        "parent": "games"
+    },
+    {
+        "id": "cozinha",
+        "parent": null
+    },
+    {
+        "id": "fantasma",
+        "parent": "pacman"
+    },
+    {
+        "id": "bola",
+        "parent": "futebol"
+    },
+    {
+        "id": "futebol",
+        "parent": "esportes"
+    },
+    {
+        "id": "cor",
+        "parent": "fantasma"
+    },
+    {
+        "id": "camisa",
+        "parent": "nike"
+    },
+    {
+        "id": "futebol",
+        "parent": "esportes"
+    },
+    {
+        "id": "tenis",
+        "parent": "nike"
+    },
+    {
+        "id": "esportes",
+        "parent": null
+    },
+    {
+        "id": "calca",
+        "parent": "nike"
+    },
+    {
+        "id": "basket",
+        "parent": "esportes"
+    },
+    {
+        "id": "sprite",
+        "parent": "coca"
+    },
+    {
+        "id": "rosa",
+        "parent": "cor"
+    },
+    {
+        "id": "nike",
+        "parent": null
+    }
+]
